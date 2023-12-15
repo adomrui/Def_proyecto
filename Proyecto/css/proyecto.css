@@ -319,7 +319,65 @@ transition: background-color 0.6s ease;
     width: 100%;
     color: white;
 }
+.grid-2d {display: grid;
+    grid-template-columns: 100%;}
 
+footer {background-color: rgb (3, 100, 11);
+    color: white;
+    font-family: 'Bebas neue',sans-serif;
+    font-size: 1.2em;
+    text-align: center; 
+    padding: 2%;}
+
+h3 {font-size: 1em;
+    font-weight:'Bebas neue',sans-serif ;}
+
+.footerlinks a {text-decoration: none;
+    color: #b85a1f;
+    font-size: 1em;}
+
+.footericons {padding: 1%;
+    font-size: 1.4em;}
+
+.fa {color: rgb(3, 100, 11);}
+
+.grid-2d {display: grid;
+    grid-template-columns: 100%;}
+
+#email{text-decoration: none;
+    font-size: 1em;
+    color: rgb(3, 100, 11);}
+
+#footerbutton {background-color:  white;
+    color: rgb(255, 255, 255);
+    padding: 8px 10px;
+    border: none;
+    border-radius: 10px;
+    font-family: 'Bebas neue',sans-serif;
+    font-size: 0.8em;
+    font-weight: bold;}
+
+#footerbutton:hover {background-color: rgb(3, 100, 11);
+                color: white;}
+
+footer .fa {margin: 10px 10px;}
+
+footer .fa:hover {color: rgb(3, 100, 11);}
+
+footer a {text-decoration: none;}
+
+footer a p {color: rgb(3, 100, 11);
+    font-size: 1em;
+    border: hidden;
+    padding-left: 10px;
+    transition: 0.2s;}
+
+footer a p:hover {color: white;
+    border-left: 4px solid rgb(3, 100, 11);}
+
+footer #logo{
+    width: 5%;
+}
 
 /**************************************Link , H y parrafos******************************/
 

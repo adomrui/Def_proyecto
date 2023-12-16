@@ -24,22 +24,17 @@
 <p>La web está dividida en  X secciones:</p>
 <ul>
   <li>Hero Section</li>  
-  <li>¿</li>
+  <li>Introducción</li>
   <li>Galería</li>
-  <li></li>
-  <li></li>
-  <li></li>
   <li>Footer</li>
 </ul>
 
 <h3>Hero Section</h3>
-<img src="./readme-miataxpress/hero.png" alt="imagen de Hero Section" style="width:50%">
-<p>He utilizado dos imágenes de fondo tomadas de uno de los fotográfos del grupo (@adiazfotos), una imagen se adapta a pantallas grandes (portátil, sobremesa), por otro lado la otra se adapta a pantallas pequeñas (móvil y tablet)<br>
+<p>He utilizado una imagen de fondo Remedios digitales, una imagen se adapta a pantallas grandes (portátil, sobremesa), por otro lado la otra se adapta a pantallas pequeñas (móvil y tablet)<br>
 Sobre ella he colocado dos botones "Call to Action" estilados de forma sencilla</p>
 
 <h3>Introducción</h3>
-<img src="./readme-miataxpress/section1.png" alt="imagen de la primera section - ¿Quiénes Somos?" style="width:50%">
-<p>Texto corto a modo de presentación inicial donde se explica el mótivo del club. Título inicial y texto centrados de forma inicial dejando márgenes al wrapper.</p>
+<p>Texto corto a modo de presentación inicial donde se quién es y sobre quién trta la web. Título inicial y texto centrados de forma inicial dejando márgenes al wrapper.</p>
 
 <h3>Galería</h3>
 <p>Se muestra Gallería como carrusel de fotos, cada una estilada con título y un hiperenlace en el mismo</p>
@@ -51,7 +46,7 @@ Sobre ella he colocado dos botones "Call to Action" estilados de forma sencilla<
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
 <p> 
-  <li>body: #f5f5f5 / rgb(245,245,245); Artic White</li>
+  <li>body: #f5f5f5 / rgb(245,245,245); Bebas neue</li>
   <li>#101010 / rgb(16, 16, 16); Jet Black</li>
   <li>buttons: #990505 /  rgb(153, 5, 5) // #800928 / rgb(128, 9, 40); Soul Crystal Red // Dark Red </li>
 </p>
@@ -60,9 +55,9 @@ Sobre ella he colocado dos botones "Call to Action" estilados de forma sencilla<
 <h3>Imágenes</h3>
 <p>
   Imágenes tomadas de internet
-  <li>(<a href="https://img.remediosdigitales.com/2c99fd/alonso-barein-f1-2023/1366_2000.jpeg"></a>)</li>
-  <li>(<a href="https://fotografias.antena3.com/clipping/cmsimages02/2022/08/01/763A17E3-020C-493E-814E-C10B4C778814/fichaje-alonso-aston-martin-desata-locura-redes_98.jpg?crop=3187,1793,x0,y0&width=1900&height=1069&optimize=low&format=webply"</a>)</li>
-  <li>(<a href="https://www.lavozdegalicia.es/default/2023/02/25/00121677341919784834700/Foto/Fernando-Alonso-Carlos-Sainz-EFE.jpg">@rsphoto.eu</a>)</li>
+  <li>(<a href="https://img.remediosdigitales.com/2c99fd/alonso-barein-f1-2023/1366_2000.jpeg">Remedios digitales</a>)</li>
+  <li>(<a href="https://fotografias.antena3.com/clipping/cmsimages02/2022/08/01/763A17E3-020C-493E-814E-C10B4C778814/fichaje-alonso-aston-martin-desata-locura-redes_98.jpg?crop=3187,1793,x0,y0&width=1900&height=1069&optimize=low&format=webply"</a>)>Antena 3</li>
+  <li>(<a href="https://www.lavozdegalicia.es/default/2023/02/25/00121677341919784834700/Foto/Fernando-Alonso-Carlos-Sainz-EFE.jpg">La voz de galicia</a>)</li>
 </p>
 
 <h2 id="snippets">Code snippets</h2>
@@ -71,5 +66,4 @@ Sobre ella he colocado dos botones "Call to Action" estilados de forma sencilla<
   <li>Barra de navegación: customizada a partir de una idea tomada del canal de Yotube @midudev (<a href="https://www.youtube.com/shorts/ZsGUkdFJRxA">Vídeo de referencia</a>)</li>
   <li>Dropdown Form en la NavBar tomada de W3Scools "CSS Dropdowns" (<a href="https://www.w3schools.com/css/css_dropdowns.asp">url</a>)</li>
   <li>Galería en carrusel tomada de FreeFrontend.com "CSS IMAGE GALLERY - Author: Lubna" (<a href="https://codepen.io/Lubna/pen/MWapdjE">url</a>)</li>
-  <li>Ventana Modal para el los créditos en el footer tomada de W3Schools "How TO - CSS/JS Modal" (<a href="https://www.w3schools.com/howto/howto_css_modals.asp">url</a>)</li>
 </ul>

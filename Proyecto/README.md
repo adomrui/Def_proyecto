@@ -11,24 +11,24 @@
 </ul>
 
 <h2 id="introduccion">Introducción</h2>
-<p>Trabajo realizado por: Antonio Cordero Molina</p>
+<p>Trabajo realizado por: Ángel Domínguez Ruiz</p>
 <p>Proyecto de web desde cero de 1ª evaluación del módulo Lenguajes de Marcas</p>
 <p>Diciembre de 2023</p>
 <p>Licencia CC-BY</p>
 
 <h2 id="motivacion">Motivación</h2>
-<p>Creación de una web tipo blog y directorio para el club MiataXpress de Andalucía</p>
-<p><b>Motivo:</b> El club no tiene web propia y pensé en crear una web a modo informativo de proximas salidas, rutas, tutoriales, consejos sobre repuestos, webs de compra, etc. Ya que en el grupo común de Whatsapp siempre se preguntán las mismas dudas, lo que a veces se puede volver pesado.</p>
+<p>Creación de una web sobre Fernando Alonso</p>
+<p><b>Motivo:</b> Admiro mucho a Fernando y no se me ocurría otra cosa mejor que hacer.</p>
 
 <h2 id="estructura">Estructura</h2>
 <p>La web está dividida en  X secciones:</p>
 <ul>
   <li>Hero Section</li>  
-  <li>¿Qiénes Somos?</li>
+  <li>¿</li>
   <li>Galería</li>
-  <li>MiataXpress Cup</li>
-  <li>Manuales y Tutoriales DIY</li>
-  <li>Cards</li>
+  <li></li>
+  <li></li>
+  <li></li>
   <li>Footer</li>
 </ul>
 
@@ -42,14 +42,12 @@ Sobre ella he colocado dos botones "Call to Action" estilados de forma sencilla<
 <p>Texto corto a modo de presentación inicial donde se explica el mótivo del club. Título inicial y texto centrados de forma inicial dejando márgenes al wrapper.</p>
 
 <h3>Galería</h3>
-<img src="./readme-miataxpress/section2.png" alt="imagen de la sección de galería" style="width:50%">
 <p>Se muestra Gallería como carrusel de fotos, cada una estilada con título y un hiperenlace en el mismo</p>
 
 
 
 <h3>Footer</h3>
-<img src="./readme-miataxpress/footer.png" alt="imagen del footer" style="width:50%"> <img src="./readme-miataxpress/Credits.png" alt="imagen de créditos del footer" style="width:50%">
-<p>Footer que cuenta con elementos extilados con grid-2 y un segundo grid-2 al final de la página para los hiperenlaces de la barra de navegación secundaria, copyright y el botón de ventana modal para los recursos. Para pantallas mayores (portátil y pc sobremesa) se muestra una foto de fondo tomada de uno de los fotográfos del grupo (@adiazfotos). En cambio en móvil se muestra un fondo de color sólido y el lógo como grid.</p>
+<p>Footer que cuenta con elementos extilados con grid-2 y un segundo grid-2 al final de la página para los hiperenlaces de la barra de navegación secundaria, copyright y con las RRSS sociales con sus respectivos iconos los cuáles si pinchas te lleva directamente a su perfil.</p>
 <h2 id="estilo">Estilo de la página</h2>
 <h3>Paleta de colores</h3>
 <p> 
@@ -61,10 +59,10 @@ Sobre ella he colocado dos botones "Call to Action" estilados de forma sencilla<
 <p>Toda la página tiene la fuente de Bebas neue, sino será sans serif</p>
 <h3>Imágenes</h3>
 <p>
-  Fotografías cedidas por los fotográfos oficiales del grupo
-  <li>(<a href="https://www.instagram.com/adiazfotos/">@adiazfotos</a>)</li>
-  <li>(<a href="https://www.instagram.com/lule_view/">@luleview</a>)</li>
-  <li>(<a href="https://www.instagram.com/rsphoto.eu/">@rsphoto.eu</a>)</li>
+  Imágenes tomadas de internet
+  <li>(<a href="https://img.remediosdigitales.com/2c99fd/alonso-barein-f1-2023/1366_2000.jpeg"></a>)</li>
+  <li>(<a href="https://fotografias.antena3.com/clipping/cmsimages02/2022/08/01/763A17E3-020C-493E-814E-C10B4C778814/fichaje-alonso-aston-martin-desata-locura-redes_98.jpg?crop=3187,1793,x0,y0&width=1900&height=1069&optimize=low&format=webply"</a>)</li>
+  <li>(<a href="https://www.lavozdegalicia.es/default/2023/02/25/00121677341919784834700/Foto/Fernando-Alonso-Carlos-Sainz-EFE.jpg">@rsphoto.eu</a>)</li>
 </p>
 
 <h2 id="snippets">Code snippets</h2>
@@ -73,8 +71,5 @@ Sobre ella he colocado dos botones "Call to Action" estilados de forma sencilla<
   <li>Barra de navegación: customizada a partir de una idea tomada del canal de Yotube @midudev (<a href="https://www.youtube.com/shorts/ZsGUkdFJRxA">Vídeo de referencia</a>)</li>
   <li>Dropdown Form en la NavBar tomada de W3Scools "CSS Dropdowns" (<a href="https://www.w3schools.com/css/css_dropdowns.asp">url</a>)</li>
   <li>Galería en carrusel tomada de FreeFrontend.com "CSS IMAGE GALLERY - Author: Lubna" (<a href="https://codepen.io/Lubna/pen/MWapdjE">url</a>)</li>
-  <li>Overlay effect tomado de W3Scools "How TO - Image Hover Overlay" (<a href="https://www.w3schools.com/howto/howto_css_image_overlay.asp">url</a>)</li>
-  <li>Card Animation: estructura para la animación tomada del canal de Yotube @midudev (<a href="https://www.youtube.com/watch?v=D1p2Sl6lxX4&list=LL&index=25">Vídeo de referencia</a>)</li>
-  <li>Email Form en el footer: tomada de W3Schools "How TO - HTML input type="email" (<a href="https://www.w3schools.com/tags/att_input_type_email.asp">url</a>)</li>
   <li>Ventana Modal para el los créditos en el footer tomada de W3Schools "How TO - CSS/JS Modal" (<a href="https://www.w3schools.com/howto/howto_css_modals.asp">url</a>)</li>
 </ul>
